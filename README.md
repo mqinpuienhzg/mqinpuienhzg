@@ -1,8 +1,8 @@
 # <p align="center" color="red">Trần Ngọc Tiến</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<a href="https://github.com/mqinpuienhzg">
+	<img src="https://i.imgur.com/wYOUP2w.jpeg" width = "200" alt="TNT">
 	</a>
 </p>
 
