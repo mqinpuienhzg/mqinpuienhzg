@@ -80,7 +80,6 @@ namespace MNH
 
 ## <p align="center">Profile stats</p>
 
-<p align="center"><img src="" alt="ngoctienTNT :: Profile Stats" /></p>
 
 <p align="center">
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT" />
